@@ -1,0 +1,73 @@
+[
+    {
+        "nombre": "NYC Creates",
+        "fecha": "2023",
+        "signo": "branding",
+        "foto": "https://fastly.picsum.photos/id/22/4434/3729.jpg?hmac=fjZdkSMZJNFgsoDh8Qo5zdA_nSGUAWvKLyyqmEt2xs0",
+        "github": "https://github.com/florencia-rz" 
+    },
+    {
+        "nombre": "Museo Regional de Rancagua",
+        "fecha": "2023",
+        "signo": "branding",
+        "foto": "https://fastly.picsum.photos/id/101/2621/1747.jpg?hmac=cu15YGotS0gIYdBbR1he5NtBLZAAY6aIY5AbORRAngs",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Voces de un nuevo Chile",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://fastly.picsum.photos/id/85/1280/774.jpg?hmac=h_HHpvfhMmLP6uOSrHS7HSlXVRuMKfBbc8HFKd1Acv4",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Exposición fotográfica",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://fastly.picsum.photos/id/40/4106/2806.jpg?hmac=MY3ra98ut044LaWPEKwZowgydHZ_rZZUuOHrc3mL5mI",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Casos Policiales",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://fastly.picsum.photos/id/41/1280/805.jpg?hmac=W9CWeYdlZisqEfhjuODl83T3lCXAqjUZrOe9iMFPYmI",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Espécimen tipográfico",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://fastly.picsum.photos/id/38/1280/960.jpg?hmac=HBrgyJHQOGVicaWoXgvdSfTakkAyv4BxAt4rF0DhWkU",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Mensajes en la Ciudad",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://fastly.picsum.photos/id/124/3504/2336.jpg?hmac=B1Avp6or9Df8vpnN4kQsGNfD66j8hH3gLtootCoTw4M",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Cuentos Clásicos",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://fastly.picsum.photos/id/185/3995/2662.jpg?hmac=gXqQYKLwRcZNsxrWGW6YosAXEIU6-D7UbytF_ApGmDs",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Fundación Mis Talentos",
+        "fecha": "2010-09-19",
+        "signo": "2021",
+        "foto": "https://fastly.picsum.photos/id/238/2560/1440.jpg?hmac=wKo4dLHwDntZmO_fdtnKtsnmRcPMACca3m5J5vx2AVc",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "DeMentes",
+        "fecha": "2021",
+        "signo": "editorial",
+        "foto": "https://fastly.picsum.photos/id/240/2972/1932.jpg?hmac=jSM5F-6jynDsu3mm6G_xzUttYE2MkdnwkqwsmDfjeFs",
+        "github": "https://github.com/florencia-rz"
+    },
+    
+]
