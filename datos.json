@@ -1,72 +1,74 @@
 [
     {
         "nombre": "NYC Creates",
+        //"descripcion": "frase para describir el trabajo",
         "fecha": "2023",
         "signo": "branding",
-        "foto": "https://picsum.photos/id/22/4434/3729",
+        "foto": "https://picsum.photos/id/460/900/600",
+        //"fotos": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz" 
     },
     {
         "nombre": "Museo Regional de Rancagua",
         "fecha": "2023",
         "signo": "branding",
-        "foto": "https://picsum.photos/id/101/2621/1747",
+        "foto": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz"
     },
     {
         "nombre": "Voces de un nuevo Chile",
         "fecha": "2023",
         "signo": "editorial",
-        "foto": "https://picsum.photos/id/85/1280/774",
+        "foto": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz"
     },
     {
         "nombre": "Exposición fotográfica",
         "fecha": "2023",
         "signo": "editorial",
-        "foto": "https://picsum.photos/id/40/4106/2806",
+        "foto": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz"
     },
     {
         "nombre": "Casos Policiales",
         "fecha": "2022",
         "signo": "editorial",
-        "foto": "https://picsum.photos/id/41/1280/805",
+        "foto": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz"
     },
     {
         "nombre": "Espécimen tipográfico",
         "fecha": "2022",
         "signo": "editorial",
-        "foto": "https://picsum.photos/id/38/1280/960",
+        "foto": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz"
     },
     {
         "nombre": "Mensajes en la Ciudad",
         "fecha": "2022",
         "signo": "editorial",
-        "foto": "https://picsum.photos/id/124/3504/2336",
+        "foto": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz"
     },
     {
         "nombre": "Cuentos Clásicos",
         "fecha": "2022",
         "signo": "editorial",
-        "foto": "https://picsum.photos/id/185/3995/2662",
+        "foto": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz"
     },
     {
         "nombre": "Fundación Mis Talentos",
         "fecha": "2021",
         "signo": "merchandising",
-        "foto": "https://picsum.photos/id/238/2560/1440",
+        "foto": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz"
     },
     {
         "nombre": "DeMentes",
         "fecha": "2021",
         "signo": "editorial",
-        "foto": "https://picsum.photos/id/240/2972/1932",
+        "foto": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz"
     }
     
